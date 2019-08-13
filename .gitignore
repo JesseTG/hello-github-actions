@@ -37,7 +37,8 @@ Temporary Items
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-.idea
+.idea/
+.idea/.idea.hello-github-actions.dir/
 
 # Generated files
 .idea/**/contentModel.xml
